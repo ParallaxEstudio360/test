@@ -1,0 +1,90 @@
+#: locale=es
+
+## Tour
+
+### Description
+
+### Título
+tour.name = Suzuki Palmas (Duplicado)
+
+## Skin
+
+### Tooltip
+IconButton_3ACBFCFC_292C_5859_41BB_B12A81CDDC88.toolTip = Reproducir/Pausar
+
+## Media
+
+### Subtítulo
+panorama_10E67392_1A10_C896_417E_60C80EF386E0.subtitle = 2
+
+### Título
+album_05EA6E9B_27D7_BF2D_41BA_9CF9B27136DB.label = Album de Fotos 02_Cámara
+album_05EA6E9B_27D7_BF2D_41BA_9CF9B27136DB_0.label = 02_Cámara
+album_05EA6E9B_27D7_BF2D_41BA_9CF9B27136DB_1.label = 04_Calavera
+album_05EA6E9B_27D7_BF2D_41BA_9CF9B27136DB_2.label = 05_Proximidad
+album_05EA6E9B_27D7_BF2D_41BA_9CF9B27136DB_3.label = 06_Escape
+album_05EA6E9B_27D7_BF2D_41BA_9CF9B27136DB_4.label = 07_Cajuela
+album_05EA6E9B_27D7_BF2D_41BA_9CF9B27136DB_5.label = 08_Cajuela
+album_3AF94979_2736_A5ED_41C1_92CA29A86F33.label = Album de Fotos 01_Tablero
+album_3AF94979_2736_A5ED_41C1_92CA29A86F33_0.label = 01_Tablero
+album_3AF94979_2736_A5ED_41C1_92CA29A86F33_1.label = 02_Monitor
+album_3AF94979_2736_A5ED_41C1_92CA29A86F33_2.label = 03_Botón
+album_3E880D4D_2757_BD25_4185_FBD7EFD1384F.label = Album de Fotos 01_Motor
+album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_0.label = 01_Motor
+album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_1.label = 04_Motor
+album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_2.label = 05_Motor
+album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_3.label = 06_Motor
+album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_4.label = 07_Motor
+media_32354C54_3CD5_BED1_41B6_2E582C4FD10F.label = Prueba de Manejo suzuki H264
+panorama_10CD4729_1A13_49B5_41AA_57965FAE9910.label = Swift Sport cofre abierto
+panorama_10CEB5ED_1A13_C88D_41B4_F1800C260192.label = Swift Sport cajuela cerrada
+panorama_10E67392_1A10_C896_417E_60C80EF386E0.label = Swift Sport 2021
+panorama_10E97014_1A10_C793_418F_11C9431071A4.label = Swift Sport puerta abierta
+panorama_10FFAD4E_1A17_398E_4172_BF2142691EF6.label = Swift Sport puerta cerrada
+panorama_112E7D81_1A11_5975_41B6_33D628FE4E62.label = Agencia
+panorama_118D76C5_1A26_0C7B_4192_A8FB20F03025.label = Swift Sport interior frente
+panorama_23D7D3AD_33DB_2213_41A1_1F4A3C8B3D56.label = Swift Sport Despedida
+panorama_2AD808A0_26D6_E31B_41BB_F12D228BA903.label = Swift Sport interior atrás
+panorama_2D399FD7_26D9_BD25_4199_1FC28601D9CF.label = Swift Sport cajuela abierta
+panorama_3C0C4858_335D_2E32_41C8_CC215E7B06DB.label = Recepción
+photo_02649CD0_273A_A33B_41A7_ECE9DD114308.label = 02_Faros
+photo_02649CD0_273A_A33B_41A7_ECE9DD114308.label = 02_Faros
+photo_04449003_273A_E31D_41B4_F7C5F779A7E5.label = 9_Neblina
+photo_04449003_273A_E31D_41B4_F7C5F779A7E5.label = 9_Neblina
+photo_0445568B_273A_AF2D_41B6_AC4C24CC0442.label = 03_Frente
+photo_0445568B_273A_AF2D_41B6_AC4C24CC0442.label = 03_Frente
+video_23702CEC_335D_6612_41B9_841A273EC749.label = entrada (Edición de VR2 1)_4
+video_3C29491E_3376_EE2E_41C1_55B533EBB9A3.label = entrada (Edición de VR2 1)_3
+video_3C47AFCD_33DD_2212_41B3_EC3E7C26799F.label = salida (Edición de VR2 1)
+video_3E95B1DE_333A_DE31_41B8_0A94824A0F54.label = entrada (Edición de VR2 1)_2
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_01BB9469_276B_63ED_41B0_5657C79BCDD2.toolTip = Agenda tu cita
+HotspotPanoramaOverlayArea_028270BB_275A_A36D_41B3_4E20CD945021.toolTip = Prueba de manejo
+HotspotPanoramaOverlayArea_02EF73F9_2759_64ED_41C1_F3024FD7AE5F.toolTip = ¡Apártalo!
+HotspotPanoramaOverlayArea_07B15BFA_272A_A4EC_41A5_3EFED3977C84.toolTip = Detalle
+HotspotPanoramaOverlayArea_14053BD0_1A3A_0419_41AF_67AD0C1BDA2B.toolTip = Detalle
+HotspotPanoramaOverlayArea_146C3D34_1A2E_3C19_4194_22772E3DC7D3.toolTip = Recepción
+HotspotPanoramaOverlayArea_148C8911_1A3A_041B_41B2_BD401FB36739.toolTip = ¡Entra!
+HotspotPanoramaOverlayArea_14994614_1A3E_0C19_419D_985C655FB716.toolTip = Abre la puerta
+HotspotPanoramaOverlayArea_14F3E693_1A3E_0C1F_41B8_2A4DDB4FFDF9.toolTip = Continúa
+HotspotPanoramaOverlayArea_150F44EC_1A26_0C08_41A1_08FB94679F3A.toolTip = Abre la cajuela
+HotspotPanoramaOverlayArea_15369AA9_1A3A_040B_418D_6A4751D14411.toolTip = Ve a la cajuela
+HotspotPanoramaOverlayArea_153DDD4F_1A26_1C07_41A7_7250DB3F25A9.toolTip = Ve al frente
+HotspotPanoramaOverlayArea_15890F9B_26E9_9D2C_41C2_4B3D340BA433.toolTip = Prueba de manejo
+HotspotPanoramaOverlayArea_15BB560D_1A3A_0C0B_41B0_CE565822EA10.toolTip = Ve atrás
+HotspotPanoramaOverlayArea_16007F9E_26EA_9D24_41B3_F6115536EBE8.toolTip = Detalle
+HotspotPanoramaOverlayArea_165BFE6A_26EA_9FEF_41BA_A7B9E79E85EC.toolTip = Detalle
+HotspotPanoramaOverlayArea_176E8CF7_26D7_BCE4_41A2_D5A118E84441.toolTip = Detalle
+HotspotPanoramaOverlayArea_17B700C2_1A2A_0479_41B9_75A6EAE09D88.toolTip = Entra
+HotspotPanoramaOverlayArea_17EDCE42_1A2A_3C79_41B4_A619FBC5E24B.toolTip = Abrir cofre
+HotspotPanoramaOverlayArea_3AC50911_2739_A53D_4183_D9D067940960.toolTip = Detalle
+HotspotPanoramaOverlayArea_3EF850B1_2D85_0E4D_419B_0EBE82CBDB4F.toolTip = Dale play
+
+## Acción
+
+### URL
+LinkBehaviour_011FA7F6_275B_6CE7_4197_56A0224B1324.source = https://suzukipalmas.com.mx/apartado
+LinkBehaviour_22AA34A2_3233_F3BF_41BC_6D94754CDDD2.source = https://suzukipalmas.com.mx/contacto/agendarcita/swift
